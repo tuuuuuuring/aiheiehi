@@ -17,3 +17,5 @@ target_link_libraries(main
         OpenSSL::SSL
         OpenSSL::Crypto
 )
+
+add_subdirectory(src)
